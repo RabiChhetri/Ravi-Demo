@@ -1,2 +1,3 @@
 # Ravi-Demo
-This is my Repository
+This is my first Repository.
+Author: Rabi Khatri Chhetri
